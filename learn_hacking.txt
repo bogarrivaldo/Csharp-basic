@@ -1,6 +1,6 @@
 Difile ini penjelasan dasar-dasar melakukan hacking.
 
-- Ijection
+
 - Bruteforce
 - Sniffing
  ^ambil account yang terlintas
