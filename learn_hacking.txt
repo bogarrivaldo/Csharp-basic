@@ -1,0 +1,6 @@
+Difile ini penjelasan dasar-dasar melakukan hacking.
+
+- Ijection
+- Bruteforce
+- Sniffing
+- Spoffing
