@@ -1,6 +1,9 @@
 Difile ini penjelasan dasar-dasar melakukan hacking.
 
-- Ijection
+
 - Bruteforce
 - Sniffing
+ ^ambil email
+ ^ambil account facebook
+ ^ambil account game
 - Spoffing
