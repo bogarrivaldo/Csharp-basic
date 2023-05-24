@@ -7,3 +7,5 @@ Difile ini penjelasan dasar-dasar melakukan hacking.
  ^mengetahui alamat ip
  ^force jaringan atua mematikan jaringan
 - Spoffing
+ ^Menyadap lintasan kiriman packet
+ ^Menyadap lintasan kiriman cctv
