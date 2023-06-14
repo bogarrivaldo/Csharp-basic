@@ -1,5 +1,0 @@
-Di repository ini adalah pembelajaran saya pada dasar-dasar bahasa C#.
-
-- Nama : rivaldo bogar
-- Asal : Manado
-
