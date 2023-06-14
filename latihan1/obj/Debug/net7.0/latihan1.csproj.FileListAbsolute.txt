@@ -1,0 +1,15 @@
+C:\Users\VALDO\Documents\C#_Basic\latihan1\bin\Debug\net7.0\latihan1.exe
+C:\Users\VALDO\Documents\C#_Basic\latihan1\bin\Debug\net7.0\latihan1.deps.json
+C:\Users\VALDO\Documents\C#_Basic\latihan1\bin\Debug\net7.0\latihan1.runtimeconfig.json
+C:\Users\VALDO\Documents\C#_Basic\latihan1\bin\Debug\net7.0\latihan1.dll
+C:\Users\VALDO\Documents\C#_Basic\latihan1\bin\Debug\net7.0\latihan1.pdb
+C:\Users\VALDO\Documents\C#_Basic\latihan1\obj\Debug\net7.0\latihan1.csproj.AssemblyReference.cache
+C:\Users\VALDO\Documents\C#_Basic\latihan1\obj\Debug\net7.0\latihan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Documents\C#_Basic\latihan1\obj\Debug\net7.0\latihan1.AssemblyInfoInputs.cache
+C:\Users\VALDO\Documents\C#_Basic\latihan1\obj\Debug\net7.0\latihan1.AssemblyInfo.cs
+C:\Users\VALDO\Documents\C#_Basic\latihan1\obj\Debug\net7.0\latihan1.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Documents\C#_Basic\latihan1\obj\Debug\net7.0\latihan1.dll
+C:\Users\VALDO\Documents\C#_Basic\latihan1\obj\Debug\net7.0\refint\latihan1.dll
+C:\Users\VALDO\Documents\C#_Basic\latihan1\obj\Debug\net7.0\latihan1.pdb
+C:\Users\VALDO\Documents\C#_Basic\latihan1\obj\Debug\net7.0\latihan1.genruntimeconfig.cache
+C:\Users\VALDO\Documents\C#_Basic\latihan1\obj\Debug\net7.0\ref\latihan1.dll
