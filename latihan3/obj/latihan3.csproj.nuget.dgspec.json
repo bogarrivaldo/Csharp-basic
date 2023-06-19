@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VALDO\\Documents\\C#_Basic\\latihan3\\latihan3.csproj": {}
+    "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\latihan3\\latihan3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VALDO\\Documents\\C#_Basic\\latihan3\\latihan3.csproj": {
+    "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\latihan3\\latihan3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VALDO\\Documents\\C#_Basic\\latihan3\\latihan3.csproj",
+        "projectUniqueName": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\latihan3\\latihan3.csproj",
         "projectName": "latihan3",
-        "projectPath": "C:\\Users\\VALDO\\Documents\\C#_Basic\\latihan3\\latihan3.csproj",
+        "projectPath": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\latihan3\\latihan3.csproj",
         "packagesPath": "C:\\Users\\VALDO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VALDO\\Documents\\C#_Basic\\latihan3\\obj\\",
+        "outputPath": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\latihan3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VALDO\\AppData\\Roaming\\NuGet\\NuGet.Config"

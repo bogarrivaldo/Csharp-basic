@@ -15,7 +15,7 @@ namespace Displayvariabel   // Menampilkan display variables
             Console.WriteLine(jum1 + jum2); // Akan langsung dijumlahkan
 
             string frontName = "Rivaldo", backName = "Bogar";
-            Console.WriteLine(frontName + backName); // Akan langsung dijumlahkan
+            Console.WriteLine(frontName + backName); // Penggabungan kedua string
 
             string lab1 = "game", lab2 = "Dev", gabungkan;
             gabungkan = lab1 + lab2; // Buat variabel baru untuk menggabungkan variabel1 dan variabel2

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VALDO\\Documents\\C#_Basic\\latihan1\\latihan1.csproj",
+      "projectUniqueName": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\latihan1\\latihan1.csproj",
       "projectName": "latihan1",
-      "projectPath": "C:\\Users\\VALDO\\Documents\\C#_Basic\\latihan1\\latihan1.csproj",
+      "projectPath": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\latihan1\\latihan1.csproj",
       "packagesPath": "C:\\Users\\VALDO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VALDO\\Documents\\C#_Basic\\latihan1\\obj\\",
+      "outputPath": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\latihan1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VALDO\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ namespace MultipleVar
             Console.WriteLine(total);
 
             int f, g, x;
-            f = g = x = 10;
+            f = g = x = 10; // something new 
             Console.WriteLine(f + g + x);
         }
     }
