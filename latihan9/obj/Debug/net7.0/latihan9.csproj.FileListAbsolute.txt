@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\bin\Debug\net7.0\latihan9.exe
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\bin\Debug\net7.0\latihan9.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\bin\Debug\net7.0\latihan9.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\bin\Debug\net7.0\latihan9.dll
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\bin\Debug\net7.0\latihan9.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\obj\Debug\net7.0\latihan9.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\obj\Debug\net7.0\latihan9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\obj\Debug\net7.0\latihan9.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\obj\Debug\net7.0\latihan9.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\obj\Debug\net7.0\latihan9.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\obj\Debug\net7.0\latihan9.dll
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\obj\Debug\net7.0\refint\latihan9.dll
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\obj\Debug\net7.0\latihan9.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\obj\Debug\net7.0\latihan9.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\latihan9\obj\Debug\net7.0\ref\latihan9.dll

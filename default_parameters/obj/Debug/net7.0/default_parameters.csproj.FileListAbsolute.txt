@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\bin\Debug\net7.0\default_parameters.exe
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\bin\Debug\net7.0\default_parameters.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\bin\Debug\net7.0\default_parameters.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\bin\Debug\net7.0\default_parameters.dll
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\bin\Debug\net7.0\default_parameters.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\obj\Debug\net7.0\default_parameters.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\obj\Debug\net7.0\default_parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\obj\Debug\net7.0\default_parameters.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\obj\Debug\net7.0\default_parameters.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\obj\Debug\net7.0\default_parameters.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\obj\Debug\net7.0\default_parameters.dll
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\obj\Debug\net7.0\refint\default_parameters.dll
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\obj\Debug\net7.0\default_parameters.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\obj\Debug\net7.0\default_parameters.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\default_parameters\obj\Debug\net7.0\ref\default_parameters.dll

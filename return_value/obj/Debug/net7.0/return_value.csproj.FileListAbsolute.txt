@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\bin\Debug\net7.0\return_value.exe
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\bin\Debug\net7.0\return_value.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\bin\Debug\net7.0\return_value.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\bin\Debug\net7.0\return_value.dll
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\bin\Debug\net7.0\return_value.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\obj\Debug\net7.0\return_value.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\obj\Debug\net7.0\return_value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\obj\Debug\net7.0\return_value.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\obj\Debug\net7.0\return_value.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\obj\Debug\net7.0\return_value.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\obj\Debug\net7.0\return_value.dll
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\obj\Debug\net7.0\refint\return_value.dll
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\obj\Debug\net7.0\return_value.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\obj\Debug\net7.0\return_value.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\return_value\obj\Debug\net7.0\ref\return_value.dll

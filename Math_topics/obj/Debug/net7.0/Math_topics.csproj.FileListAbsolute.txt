@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\bin\Debug\net7.0\Math_topics.exe
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\bin\Debug\net7.0\Math_topics.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\bin\Debug\net7.0\Math_topics.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\bin\Debug\net7.0\Math_topics.dll
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\bin\Debug\net7.0\Math_topics.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\obj\Debug\net7.0\Math_topics.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\obj\Debug\net7.0\Math_topics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\obj\Debug\net7.0\Math_topics.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\obj\Debug\net7.0\Math_topics.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\obj\Debug\net7.0\Math_topics.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\obj\Debug\net7.0\Math_topics.dll
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\obj\Debug\net7.0\refint\Math_topics.dll
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\obj\Debug\net7.0\Math_topics.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\obj\Debug\net7.0\Math_topics.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Math_topics\obj\Debug\net7.0\ref\Math_topics.dll

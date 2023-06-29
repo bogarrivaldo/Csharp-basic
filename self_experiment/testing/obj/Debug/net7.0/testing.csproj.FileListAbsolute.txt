@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\bin\Debug\net7.0\testing.exe
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\bin\Debug\net7.0\testing.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\bin\Debug\net7.0\testing.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\bin\Debug\net7.0\testing.dll
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\bin\Debug\net7.0\testing.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\obj\Debug\net7.0\testing.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\obj\Debug\net7.0\testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\obj\Debug\net7.0\testing.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\obj\Debug\net7.0\testing.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\obj\Debug\net7.0\testing.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\obj\Debug\net7.0\testing.dll
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\obj\Debug\net7.0\refint\testing.dll
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\obj\Debug\net7.0\testing.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\obj\Debug\net7.0\testing.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\self_experiment\testing\obj\Debug\net7.0\ref\testing.dll

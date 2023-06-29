@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\bin\Debug\net7.0\method_parameter.exe
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\bin\Debug\net7.0\method_parameter.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\bin\Debug\net7.0\method_parameter.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\bin\Debug\net7.0\method_parameter.dll
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\bin\Debug\net7.0\method_parameter.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\obj\Debug\net7.0\method_parameter.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\obj\Debug\net7.0\method_parameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\obj\Debug\net7.0\method_parameter.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\obj\Debug\net7.0\method_parameter.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\obj\Debug\net7.0\method_parameter.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\obj\Debug\net7.0\method_parameter.dll
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\obj\Debug\net7.0\refint\method_parameter.dll
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\obj\Debug\net7.0\method_parameter.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\obj\Debug\net7.0\method_parameter.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\method_parameter\obj\Debug\net7.0\ref\method_parameter.dll
