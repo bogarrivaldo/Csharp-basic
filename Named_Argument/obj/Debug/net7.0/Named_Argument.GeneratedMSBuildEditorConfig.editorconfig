@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = method
-build_property.ProjectDir = C:\Users\VALDO\Downloads\Csharp-basic\method\
+build_property.RootNamespace = Named_Argument
+build_property.ProjectDir = C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\

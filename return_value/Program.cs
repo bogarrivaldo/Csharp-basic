@@ -3,9 +3,9 @@ namespace return_value
 {
     class bck_value
     {
-        static int myfunction(int test = 5)
+        static int myfunction(int test = 5) // Membuat default value
         {
-            return test + 10;
+            return test + 10; // return value
         }
         static void Main(String[] args)
         {

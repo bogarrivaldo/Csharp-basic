@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\bin\Debug\net7.0\Named_Argument.exe
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\bin\Debug\net7.0\Named_Argument.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\bin\Debug\net7.0\Named_Argument.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\bin\Debug\net7.0\Named_Argument.dll
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\bin\Debug\net7.0\Named_Argument.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\obj\Debug\net7.0\Named_Argument.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\obj\Debug\net7.0\Named_Argument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\obj\Debug\net7.0\Named_Argument.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\obj\Debug\net7.0\Named_Argument.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\obj\Debug\net7.0\Named_Argument.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\obj\Debug\net7.0\Named_Argument.dll
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\obj\Debug\net7.0\refint\Named_Argument.dll
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\obj\Debug\net7.0\Named_Argument.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\obj\Debug\net7.0\Named_Argument.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Named_Argument\obj\Debug\net7.0\ref\Named_Argument.dll

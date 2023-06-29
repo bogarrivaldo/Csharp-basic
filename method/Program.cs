@@ -10,7 +10,7 @@ namespace training_method
         }
         static void Main(String[] args) // Main function
         {
-            Console.Clear();
+            Console.Clear(); // function yang sudah ada pada using System
             robot();
         }
     }
