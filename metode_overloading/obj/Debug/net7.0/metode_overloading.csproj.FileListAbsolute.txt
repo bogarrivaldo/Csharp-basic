@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\bin\Debug\net7.0\metode_overloading.exe
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\bin\Debug\net7.0\metode_overloading.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\bin\Debug\net7.0\metode_overloading.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\bin\Debug\net7.0\metode_overloading.dll
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\bin\Debug\net7.0\metode_overloading.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\obj\Debug\net7.0\metode_overloading.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\obj\Debug\net7.0\metode_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\obj\Debug\net7.0\metode_overloading.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\obj\Debug\net7.0\metode_overloading.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\obj\Debug\net7.0\metode_overloading.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\obj\Debug\net7.0\metode_overloading.dll
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\obj\Debug\net7.0\refint\metode_overloading.dll
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\obj\Debug\net7.0\metode_overloading.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\obj\Debug\net7.0\metode_overloading.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\metode_overloading\obj\Debug\net7.0\ref\metode_overloading.dll
