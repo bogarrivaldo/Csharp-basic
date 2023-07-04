@@ -1,5 +1,5 @@
 ﻿using System;
-// method_overloding adalah fungsi yang sama tapi parameter berbeda seperti kita lihat dibawah ini ada beberapa fungsi yang sama dengan
+// method_overloding adalah fungsi dengan nama yang sama tapi parameter berbeda seperti kita lihat dibawah ini ada beberapa fungsi yang sama dengan
 // nilai atau type data dari para meternya berbeda beda.
 namespace mthd_ovrldng
 {

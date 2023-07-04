@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\obj\Debug\net7.0\classes_And_object.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\obj\Debug\net7.0\classes_And_object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\obj\Debug\net7.0\classes_And_object.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\obj\Debug\net7.0\classes_And_object.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\obj\Debug\net7.0\classes_And_object.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\bin\Debug\net7.0\classes_And_object.exe
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\bin\Debug\net7.0\classes_And_object.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\bin\Debug\net7.0\classes_And_object.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\bin\Debug\net7.0\classes_And_object.dll
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\bin\Debug\net7.0\classes_And_object.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\obj\Debug\net7.0\classes_And_object.dll
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\obj\Debug\net7.0\refint\classes_And_object.dll
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\obj\Debug\net7.0\classes_And_object.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\obj\Debug\net7.0\classes_And_object.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\classes_And_object\obj\Debug\net7.0\ref\classes_And_object.dll

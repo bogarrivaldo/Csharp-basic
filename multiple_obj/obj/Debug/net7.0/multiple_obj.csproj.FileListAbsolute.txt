@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\obj\Debug\net7.0\multiple_obj.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\obj\Debug\net7.0\multiple_obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\obj\Debug\net7.0\multiple_obj.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\obj\Debug\net7.0\multiple_obj.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\obj\Debug\net7.0\multiple_obj.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\bin\Debug\net7.0\multiple_obj.exe
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\bin\Debug\net7.0\multiple_obj.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\bin\Debug\net7.0\multiple_obj.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\bin\Debug\net7.0\multiple_obj.dll
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\bin\Debug\net7.0\multiple_obj.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\obj\Debug\net7.0\multiple_obj.dll
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\obj\Debug\net7.0\refint\multiple_obj.dll
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\obj\Debug\net7.0\multiple_obj.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\obj\Debug\net7.0\multiple_obj.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\multiple_obj\obj\Debug\net7.0\ref\multiple_obj.dll
