@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\bin\Debug\net7.0\Constructor.exe
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\bin\Debug\net7.0\Constructor.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\bin\Debug\net7.0\Constructor.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\bin\Debug\net7.0\Constructor.dll
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\bin\Debug\net7.0\Constructor.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\obj\Debug\net7.0\Constructor.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\obj\Debug\net7.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\obj\Debug\net7.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\obj\Debug\net7.0\Constructor.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\obj\Debug\net7.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\obj\Debug\net7.0\Constructor.dll
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\obj\Debug\net7.0\refint\Constructor.dll
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\obj\Debug\net7.0\Constructor.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\obj\Debug\net7.0\Constructor.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\Constructor\obj\Debug\net7.0\ref\Constructor.dll
