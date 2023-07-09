@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\obj\Debug\net7.0\acces_modifiers.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\obj\Debug\net7.0\acces_modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\obj\Debug\net7.0\acces_modifiers.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\obj\Debug\net7.0\acces_modifiers.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\obj\Debug\net7.0\acces_modifiers.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\bin\Debug\net7.0\acces_modifiers.exe
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\bin\Debug\net7.0\acces_modifiers.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\bin\Debug\net7.0\acces_modifiers.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\bin\Debug\net7.0\acces_modifiers.dll
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\bin\Debug\net7.0\acces_modifiers.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\obj\Debug\net7.0\acces_modifiers.dll
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\obj\Debug\net7.0\refint\acces_modifiers.dll
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\obj\Debug\net7.0\acces_modifiers.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\obj\Debug\net7.0\acces_modifiers.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\acces_modifiers\obj\Debug\net7.0\ref\acces_modifiers.dll
