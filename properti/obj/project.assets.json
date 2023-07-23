@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\properti\\properti.csproj",
+      "projectUniqueName": "c:\\Users\\VALDO\\Downloads\\Csharp-basic\\properti\\properti.csproj",
       "projectName": "properti",
-      "projectPath": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\properti\\properti.csproj",
+      "projectPath": "c:\\Users\\VALDO\\Downloads\\Csharp-basic\\properti\\properti.csproj",
       "packagesPath": "C:\\Users\\VALDO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\properti\\obj\\",
+      "outputPath": "c:\\Users\\VALDO\\Downloads\\Csharp-basic\\properti\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\VALDO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\VALDO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

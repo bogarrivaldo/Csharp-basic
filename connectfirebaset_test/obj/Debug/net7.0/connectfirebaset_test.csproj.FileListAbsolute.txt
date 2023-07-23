@@ -1,0 +1,5 @@
+C:\Users\VALDO\Downloads\Csharp-basic\connectfirebaset_test\obj\Debug\net7.0\connectfirebaset_test.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\connectfirebaset_test\obj\Debug\net7.0\connectfirebaset_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\connectfirebaset_test\obj\Debug\net7.0\connectfirebaset_test.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\connectfirebaset_test\obj\Debug\net7.0\connectfirebaset_test.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\connectfirebaset_test\obj\Debug\net7.0\connectfirebaset_test.csproj.CoreCompileInputs.cache
