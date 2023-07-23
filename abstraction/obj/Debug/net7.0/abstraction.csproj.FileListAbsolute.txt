@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\obj\Debug\net7.0\abstraction.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\obj\Debug\net7.0\abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\obj\Debug\net7.0\abstraction.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\obj\Debug\net7.0\abstraction.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\obj\Debug\net7.0\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\bin\Debug\net7.0\abstraction.exe
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\bin\Debug\net7.0\abstraction.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\bin\Debug\net7.0\abstraction.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\bin\Debug\net7.0\abstraction.dll
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\bin\Debug\net7.0\abstraction.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\obj\Debug\net7.0\abstraction.dll
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\obj\Debug\net7.0\refint\abstraction.dll
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\obj\Debug\net7.0\abstraction.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\obj\Debug\net7.0\abstraction.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\abstraction\obj\Debug\net7.0\ref\abstraction.dll

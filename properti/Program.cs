@@ -3,25 +3,30 @@ namespace properti
 {
     class traningProperti
     {
-        string Myname;
+        private string Myname;
 
-        void setgettraning()
+
+        public string Name
         {
-            get
-             {    // Belum mengerti
-                return Myname;
-            }
             set
             {
-                // Belum mengerti
+                Myname = "Bogar";
             }
+            get
+            {
+                return Myname;
+            }
+
         }
     }
-    class Start
+
+    class Update : traningProperti
     {
         static void Main(String[] args)
         {
+            Update obj1 = new Update();
 
+            Console.WriteLine(obj1.Name);
         }
     }
 }

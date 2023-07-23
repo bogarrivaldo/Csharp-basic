@@ -1,0 +1,15 @@
+C:\Users\VALDO\Downloads\Csharp-basic\properti\obj\Debug\net7.0\properti.csproj.AssemblyReference.cache
+C:\Users\VALDO\Downloads\Csharp-basic\properti\obj\Debug\net7.0\properti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALDO\Downloads\Csharp-basic\properti\obj\Debug\net7.0\properti.AssemblyInfoInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\properti\obj\Debug\net7.0\properti.AssemblyInfo.cs
+C:\Users\VALDO\Downloads\Csharp-basic\properti\obj\Debug\net7.0\properti.csproj.CoreCompileInputs.cache
+C:\Users\VALDO\Downloads\Csharp-basic\properti\bin\Debug\net7.0\properti.exe
+C:\Users\VALDO\Downloads\Csharp-basic\properti\bin\Debug\net7.0\properti.deps.json
+C:\Users\VALDO\Downloads\Csharp-basic\properti\bin\Debug\net7.0\properti.runtimeconfig.json
+C:\Users\VALDO\Downloads\Csharp-basic\properti\bin\Debug\net7.0\properti.dll
+C:\Users\VALDO\Downloads\Csharp-basic\properti\bin\Debug\net7.0\properti.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\properti\obj\Debug\net7.0\properti.dll
+C:\Users\VALDO\Downloads\Csharp-basic\properti\obj\Debug\net7.0\refint\properti.dll
+C:\Users\VALDO\Downloads\Csharp-basic\properti\obj\Debug\net7.0\properti.pdb
+C:\Users\VALDO\Downloads\Csharp-basic\properti\obj\Debug\net7.0\properti.genruntimeconfig.cache
+C:\Users\VALDO\Downloads\Csharp-basic\properti\obj\Debug\net7.0\ref\properti.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\properti\\properti.csproj": {}
+    "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\abstraction\\abstraction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\properti\\properti.csproj": {
+    "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\abstraction\\abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\properti\\properti.csproj",
-        "projectName": "properti",
-        "projectPath": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\properti\\properti.csproj",
+        "projectUniqueName": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\abstraction\\abstraction.csproj",
+        "projectName": "abstraction",
+        "projectPath": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\abstraction\\abstraction.csproj",
         "packagesPath": "C:\\Users\\VALDO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\properti\\obj\\",
+        "outputPath": "C:\\Users\\VALDO\\Downloads\\Csharp-basic\\abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VALDO\\AppData\\Roaming\\NuGet\\NuGet.Config",
